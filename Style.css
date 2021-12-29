@@ -43,8 +43,56 @@ a:hover {
 
 a:link {
     text-decoration: none;
+    
    }
    
 a:hover {
     text-decoration: underline;
    }
+
+   /*Produtos página Principal*/
+
+
+
+.Item1Celular {
+
+    border-style:solid;
+    border-color: rgb(211, 205, 211);
+    margin-top: 10%;
+    margin-left: 30%;
+    width: 30%;
+   
+
+
+}
+
+figcaption {
+
+   margin-left: 36%;
+   font-family:cursive
+}
+
+
+.legenda {
+
+    margin-left: 30%;
+}
+
+/* Rodapé da Página*/
+
+footer {
+
+   background-color: blue;
+   color: white;
+   text-align: center; 
+   margin-top: 40%;
+   padding-top: 2%;
+      
+}
+
+p {
+
+    padding-bottom: 2%;
+
+}
+
